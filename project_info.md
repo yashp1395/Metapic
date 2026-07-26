@@ -1,4 +1,4 @@
-# Metapic (KwikPic) — Comprehensive Project Overview
+# Metapic (Metapic) — Comprehensive Project Overview
 
 ## 🧐 What This Project Does
 Metapic is a smart photo-sharing platform designed for events (weddings, parties, corporate gatherings). When a photographer shoots an event, they often take thousands of photos. Attendees usually struggle to find the few photos they are actually in. 
@@ -165,7 +165,7 @@ Metapic-main/
 │   ├── app/main.py
 │   └── requirements.txt
 └── backend-java/             # Spring Boot Core API
-    ├── src/main/java/com/kwikpic/
+    ├── src/main/java/com/metapic/
     │   ├── config/           # Security, CORS
     │   ├── controller/       # API Route definitions
     │   ├── dto/              # Request/Response payloads

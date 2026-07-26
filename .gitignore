@@ -1,2 +1,36 @@
+# Dependencies and build artifacts
 node_modules/
+venv/
 .venv/
+env/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# IDE and local tool files
+.vscode/
+.idea/
+.DS_Store
+
+# Python package / library artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Java artifacts
+target/
+*.class
+*.jar
+*.war
+
+# Markdown files except specific ones
+*.md
+!README.md
+!project_info.md
+!run.md

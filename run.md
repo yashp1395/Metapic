@@ -1,4 +1,4 @@
-# 🚀 Metapic (KwikPic) — Complete Run Guide
+# 🚀 Metapic (Metapic) — Complete Run Guide
 
 This guide explains how to set up, configure, and run the full Metapic project from scratch. The project has **3 services** that need to run together:
 
@@ -78,13 +78,13 @@ Copy and paste this into `backend/.env`, then fill in your real values:
 # ─────────────────────────────────────────────
 
 # If using Docker → keep as-is (mongo is the Docker service name)
-MONGO_URI=mongodb://mongo:27017/kwikpic
+MONGO_URI=mongodb://mongo:27017/metapic
 
 # If running Manually locally → use this instead:
-# MONGO_URI=mongodb://localhost:27017/kwikpic
+# MONGO_URI=mongodb://localhost:27017/metapic
 
 # If using MongoDB Atlas (cloud):
-# MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/kwikpic
+# MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/metapic
 
 
 # ─────────────────────────────────────────────
@@ -279,7 +279,7 @@ npm install
 **Also update `FACE_SERVICE_URL` for manual mode:**
 ```env
 FACE_SERVICE_URL=http://localhost:8000
-MONGO_URI=mongodb://localhost:27017/kwikpic
+MONGO_URI=mongodb://localhost:27017/metapic
 ```
 
 **Start the backend:**

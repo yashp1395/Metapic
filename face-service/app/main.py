@@ -5,7 +5,7 @@ from .model_manager import ModelManager
 from typing import List
 from pydantic import BaseModel
 
-app = FastAPI(title='KwikPic Face Service (InsightFace)')
+app = FastAPI(title='Metapic Face Service (InsightFace)')
 
 model_mgr = ModelManager()
 

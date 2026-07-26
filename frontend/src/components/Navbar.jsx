@@ -52,7 +52,7 @@ export default function Navbar() {
             </>
           )}
 
-          <a href="https://akshay-sose-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="px-3 py-2 text-primary hover:underline">Contact Me</a>
+          <a href="https://portfolio-nu-nine-8ij7mek8iy.vercel.app/" target="_blank" rel="noopener noreferrer" className="px-3 py-2 text-primary hover:underline">Contact Me</a>
 
           {isLoggedIn && (
             <div className="relative">
@@ -120,7 +120,7 @@ export default function Navbar() {
                 <button onClick={handleLogout} className="px-3 py-2 border rounded text-left text-red-600">Logout</button>
               </>
             )}
-            <a href="https://akshay-sose-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="px-3 py-2 border rounded text-center">Contact Me</a>
+            <a href="https://portfolio-nu-nine-8ij7mek8iy.vercel.app/" target="_blank" rel="noopener noreferrer" className="px-3 py-2 border rounded text-center">Contact Me</a>
           </div>
         </div>
       )}

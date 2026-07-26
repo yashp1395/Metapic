@@ -11,11 +11,11 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.kwikpic</groupId>
+    <groupId>com.metapic</groupId>
     <artifactId>backend-java</artifactId>
     <version>1.0.0</version>
-    <name>kwikpic</name>
-    <description>KwikPic Smart Face Matching Backend — Spring Boot</description>
+    <name>metapic</name>
+    <description>Metapic Smart Face Matching Backend — Spring Boot</description>
 
     <properties>
         <java.version>21</java.version>

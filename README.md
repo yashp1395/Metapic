@@ -1,6 +1,6 @@
-# 📸 KwikPic - Smart Face Matching for Events
+# 📸 Metapic - Smart Face Matching for Events
 
-Welcome to **KwikPic**! This project is a smart photo sharing platform that uses **Face Recognition** to help people find their photos from events (like weddings, parties, or conferences) instantly.
+Welcome to **Metapic**! This project is a smart photo sharing platform that uses **Face Recognition** to help people find their photos from events (like weddings, parties, or conferences) instantly.
 
 ---
 
@@ -64,7 +64,7 @@ The easiest way to run this is using **Docker**.
     -   Create a file named `.env`.
     -   Add your keys (Cloudinary, MongoDB URI, etc.). You can look at `.env.example` if it exists, or use these keys:
         ```env
-        MONGO_URI=mongodb://mongo:27017/kwikpic
+        MONGO_URI=mongodb://mongo:27017/metapic
         CLOUDINARY_CLOUD_NAME=your_cloud_name
         CLOUDINARY_API_KEY=your_api_key
         CLOUDINARY_API_SECRET=your_api_secret

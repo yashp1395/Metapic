@@ -245,7 +245,7 @@ export default function Home() {
                             <p className="text-sm text-gray-500">Wedding Guest, Mumbai</p>
                         </div>
                     </div>
-                    <p className="text-gray-600 italic">"It was magic! I usually never find my photos at big weddings. With KwikPic, I took one selfie and boom—all my candid moments were right there."</p>
+                    <p className="text-gray-600 italic">"It was magic! I usually never find my photos at big weddings. With Metapic, I took one selfie and boom—all my candid moments were right there."</p>
                 </div>
                  <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 text-left">
                     <div className="flex items-center mb-4">
@@ -274,7 +274,7 @@ export default function Home() {
       <footer className="bg-gray-900 text-gray-400 py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h3 className="text-2xl font-bold text-white mb-4 tracking-wider">Metapic</h3>
-          <a href="https://akshay-sose-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="mb-8 font-medium hover:underline inline-block">Contact Me</a>
+          <a href="https://portfolio-nu-nine-8ij7mek8iy.vercel.app/" target="_blank" rel="noopener noreferrer" className="mb-8 font-medium hover:underline inline-block">Contact Me</a>
           <div className="border-t border-gray-800 pt-8 text-sm">
             &copy; {new Date().getFullYear()} Metapic. All rights reserved.
           </div>
